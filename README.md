@@ -1,8 +1,6 @@
 # TetradAnalysis
 Java program to count fluorescent pollen tetrads
 
-Supplied as a runnable jar file
-
 ## Description
 This program is for counting fluorescent pollen tetrads in three color intervals from fluorescently tagged lines (FTL) lines.  The original description of these lines can be found here:
 
