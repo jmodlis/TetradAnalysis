@@ -1,7 +1,7 @@
 # TetradAnalysis
 Java program to count fluorescent pollen tetrads
 
-# Description
+## Description
 This program is for counting fluorescent pollen tetrads in three color intervals from fluorescently tagged lines (FTL) lines.  The original description of these lines can be found here:
 
 Francis KE, Lam SY, Harrison BD, Bey AL, Berchowitz LE and Copenhaver GP (2007) Pollen Tetrad-based Visual Assay for Meiotic Recombination in Arabidopsis.  Proc. Natl. Acad. Sci.104: 3913-3918.  doi:10.1073/pnas.0608936104 
@@ -12,6 +12,6 @@ Berchowitz LE, Copenhaver GP (2008) Fluorescent Arabidopsis tetrads: A visual as
 
 A tutorial on how to use the program is provided in the manual. The user is expected to either have three color image data (viewable in a program such as ImageJ/Fiji) from tetrads or to use the program as a tool for counting tetrads under a microscope. 
 
-# Requirements
+## Requirements
 Requires Java 1.8
 
