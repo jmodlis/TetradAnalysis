@@ -10,7 +10,8 @@ For a thorough description of experimental design and data collection, see the p
 
 Berchowitz LE, Copenhaver GP (2008) Fluorescent Arabidopsis tetrads: A visual assay for quickly developing large crossover and crossover interference datasets.  Nature Protocols 3(1): 41-50.  doi:10.1038/nprot.2007.491 
 
+A tutorial on how to use the program is provided in the manual. The user is expected to either have three color image data (viewable in a program such as ImageJ/Fiji) from tetrads or to use the program as a tool for counting tetrads under a microscope. 
 
 # Requirements
+Requires Java 1.8
 
-#
